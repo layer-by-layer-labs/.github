@@ -16,9 +16,9 @@ No aprendes a copiar comandos: aprendes a **diagnosticar capa por capa**, como e
 
 ### Serie: HTTPS en Linux — del servidor vacío al sitio seguro
 
-| Unidad | Tema | 🎬 Conceptual | 🛠️ Tutorial | 🧪 Laboratorio |
-|---|---|---|---|---|
-| HTTPS-01 | Nginx sirve el sitio equivocado: cómo elige el server block | [Ver](https://youtu.be/7KdwEiBm2Uc) | [Ver](https://youtu.be/gLCVzIdojXE) | [https-01-nginx-server-block](https://github.com/layer-by-layer-labs/https-01-nginx-server-block) |
+| Unidad | Tema | Laboratorio | Vídeos |
+|---|---|---|---|
+| HTTPS-01 | Nginx sirve el sitio equivocado: cómo elige el server block | [https-01-nginx-server-block](https://github.com/layer-by-layer-labs/https-01-nginx-server-block) | *próximamente* |
 
 *Próximas unidades: varios sitios por nombre, TLS y certificados, CA propia, redirección a HTTPS, diagnóstico de certificados, ACME.*
 
