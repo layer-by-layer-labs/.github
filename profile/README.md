@@ -18,7 +18,7 @@ No aprendes a copiar comandos: aprendes a **diagnosticar capa por capa**, como e
 
 | Unidad | Tema | Laboratorio | Vídeos |
 |---|---|---|---|
-| HTTPS-01 | Nginx sirve el sitio equivocado: cómo elige el server block | [https-01-nginx-server-block](https://github.com/layer-by-layer-labs/https-01-nginx-server-block) | *próximamente* |
+| HTTPS-01 | Nginx sirve el sitio equivocado: cómo elige el server block | [https-01-nginx-server-block](https://github.com/layer-by-layer-labs/https-01-nginx-server-block) | [Conceptual](https://youtu.be/7KdwEiBm2Uc) · [Tutorial](https://youtu.be/gLCVzIdojXE) |
 
 *Próximas unidades: varios sitios por nombre, TLS y certificados, CA propia, redirección a HTTPS, diagnóstico de certificados, ACME.*
 
