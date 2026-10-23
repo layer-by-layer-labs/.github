@@ -35,9 +35,9 @@ Cada unidad tiene tres piezas, pensadas para usarse en este orden:
 |---|---|---|
 | 1 | 🎬 **Vídeo conceptual** (~4 min) | Entiendes el problema y los conceptos que necesitas. |
 | 2 | 🧪 **Laboratorio** | Intentas resolver la avería **por tu cuenta**, usando `./check.sh` como guía. |
-| 3 | 🛠️ **Vídeo tutorial** (~4 min) | Ves la resolución paso a paso. Úsalo si te atascas, o después de resolverlo, para comparar tu método. |
+| 3 | 🛠️ **Vídeo de solución** (~4 min) | Ves la resolución paso a paso. Míralo **después** de intentarlo: para comparar tu método, o si llevas un buen rato atascado. |
 
-**Recomendación:** intenta el laboratorio *antes* del tutorial. El aprendizaje está en el diagnóstico, no en la solución. Si llevas 20–30 minutos sin avanzar, mira el tutorial hasta el punto en que te atascaste y vuelve a intentarlo.
+**Recomendación:** intenta el laboratorio *antes* de ver la solución. El aprendizaje está en el diagnóstico, no en la solución. Si llevas 20–30 minutos sin avanzar, mira la solución hasta el punto en que te atascaste y vuelve a intentarlo.
 
 ## El método: diagnosticar capa por capa
 
@@ -63,9 +63,11 @@ Cada laboratorio pone el foco en una o dos capas. Con la serie completa, el mét
 
 Lleva un servidor desde cero hasta publicar varios sitios con HTTPS, y enseña a diagnosticar los errores más comunes en cada paso.
 
-| Unidad | Tema | 🎬 Conceptual | 🛠️ Tutorial | 🧪 Laboratorio |
+Recorre cada unidad en el orden de las columnas. ⚠️ El vídeo de **solución** resuelve el laboratorio: míralo después de intentarlo.
+
+| Unidad | Tema | 1 · 🎬 Concepto | 2 · 🧪 Laboratorio | 3 · 🛠️ Solución |
 |---|---|---|---|---|
-| HTTPS-01 | Nginx sirve el sitio equivocado: cómo elige el server block | [Ver](https://youtu.be/7KdwEiBm2Uc) | [Ver](https://youtu.be/gLCVzIdojXE) | [https-01-nginx-server-block](https://github.com/layer-by-layer-labs/https-01-nginx-server-block) |
+| HTTPS-01 | Nginx sirve el sitio equivocado: cómo elige el server block | [Vídeo](https://youtu.be/7KdwEiBm2Uc) | [https-01-nginx-server-block](https://github.com/layer-by-layer-labs/https-01-nginx-server-block) | [Vídeo](https://youtu.be/gLCVzIdojXE) ⚠️ |
 
 **Próximas unidades de la serie** (el orden puede cambiar según los comentarios):
 
